@@ -20,7 +20,7 @@ function nav_close() {
 }
 
 function contact() {
-  window.location.href = 'https://wa.me/01610541511/';
+  window.location.href = 'https://wa.me/+8801610541511/';
 }
 
 const form = document.querySelector('.main-contact-form');
